@@ -27,3 +27,11 @@ The $CLOUD token is at the heart of the SolCloud ecosystem, designed to incentiv
 
 Join us on our journey with SolCloud as we set new standards for cloud storage, prioritizing security, user control, and efficiency. Discover the future of data storage, powered by blockchain technology.
 
+## Official Links
+
+- **Website:** [solcloud.cloud](https://www.solcloud.cloud/)
+- **Twitter:** [Solcloud_sol](https://twitter.com/Solcloud_sol)
+- **Telegram:** [SolCloudSol](https://t.me/SolCloudSol)
+- **Medium:** [solcloud](https://medium.com/@solcloud)
+- **Whitepaper:** [SolCloud Documentation](https://docs.solcloud.cloud/)
+
